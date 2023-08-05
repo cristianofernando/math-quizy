@@ -3,6 +3,7 @@ player2_name=localStorage.getItem("player2_name");
 
 player1_score=0;
 player2_score=0;
+actual_answer=0;
 
 document.getElementById("player1_name").innerHTML=player1_name+ " : ";
 
